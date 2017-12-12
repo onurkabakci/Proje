@@ -1,0 +1,11 @@
+c:\users\ecem\source\repos\Proje\Proje\bin\Debug\netcoreapp2.0\Proje.deps.json
+c:\users\ecem\source\repos\Proje\Proje\bin\Debug\netcoreapp2.0\Proje.runtimeconfig.json
+c:\users\ecem\source\repos\Proje\Proje\bin\Debug\netcoreapp2.0\Proje.runtimeconfig.dev.json
+c:\users\ecem\source\repos\Proje\Proje\bin\Debug\netcoreapp2.0\Proje.dll
+c:\users\ecem\source\repos\Proje\Proje\obj\Debug\netcoreapp2.0\Proje.csproj.CoreCompileInputs.cache
+c:\users\ecem\source\repos\Proje\Proje\obj\Debug\netcoreapp2.0\Proje.AssemblyInfoInputs.cache
+c:\users\ecem\source\repos\Proje\Proje\obj\Debug\netcoreapp2.0\Proje.AssemblyInfo.cs
+c:\users\ecem\source\repos\Proje\Proje\obj\Debug\netcoreapp2.0\Proje.csprojResolveAssemblyReference.cache
+c:\users\ecem\source\repos\Proje\Proje\bin\Debug\netcoreapp2.0\Proje.pdb
+c:\users\ecem\source\repos\Proje\Proje\obj\Debug\netcoreapp2.0\Proje.dll
+c:\users\ecem\source\repos\Proje\Proje\obj\Debug\netcoreapp2.0\Proje.pdb

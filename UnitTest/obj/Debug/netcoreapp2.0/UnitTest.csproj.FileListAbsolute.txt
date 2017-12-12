@@ -1,0 +1,4 @@
+c:\Users\ecem\source\repos\Proje\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csprojResolveAssemblyReference.cache
+c:\Users\ecem\source\repos\Proje\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.csproj.CoreCompileInputs.cache
+c:\Users\ecem\source\repos\Proje\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfoInputs.cache
+c:\Users\ecem\source\repos\Proje\UnitTest\obj\Debug\netcoreapp2.0\UnitTest.AssemblyInfo.cs
